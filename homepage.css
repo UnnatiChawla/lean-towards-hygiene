@@ -1,0 +1,313 @@
+
+body {background-color: #b7e4c7;}
+
+
+.site-header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-header{
+  background-color: white;
+      text-align:right;
+      font-family: 'Akaya Telivigala', cursive;
+  }
+
+  img{
+    width: 80%;
+  }
+  
+  .button {
+    border: none;
+    color: #fae1dd;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #03045e;
+  }
+  
+  .button1:hover {
+    background-color: #03045e;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #03045e;
+  } 
+  
+  .button2:hover {
+    background-color: #03045e;
+    color: white;
+  }
+  
+  #bg {
+      background-color: #f1faee ;
+      padding-top: 5px;
+      padding-bottom: 50px;
+      height: 255px;
+      border: 1px #f1faee;
+      box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+    /* margin-top: 3%;
+    border: 14px dashed #160B61;
+    height: 155px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color:#deaaff;
+    border-radius: 5%; */
+    }
+
+    .abc{
+      background:url("https://cdn4.iconfinder.com/data/icons/hygiene-5/681/hygiene_clean_anti_sanitation_medical_protect_hand_liquid_wash-512.png") no-repeat scroll 10% 8% ,url("https://cdn4.iconfinder.com/data/icons/hygiene-5/713/hygiene_clean_anti_sanitation_medical_protect_safety-512.png") no-repeat scroll 20% 70%  ,url("https://th.bing.com/th/id/OIP.oyrSFJgg8DbrFoxCdb_4NQHaHa?w=209&h=209&c=7&o=5&dpr=1.25&pid=1.7") no-repeat scroll 10% 70% ,url("https://th.bing.com/th/id/OIP.OjsbKo9Tt5IavT1InIR24wHaHa?w=203&h=204&c=7&o=5&dpr=1.25&pid=1.7") no-repeat scroll 20% 13%; 
+     
+      background-size: 100px 100px;
+      height: 300px;
+    
+    }
+
+   #bg{
+        
+    }
+    h2{
+          font-size: 30px;
+          margin-right: 5px;
+          margin-left: 5px;
+          text-align:center;
+          padding-left: 40%;
+          font-family: 'Akaya Telivigala', cursive;
+    }
+    p{
+        text-align: center;
+        padding-left: 40%;
+        margin-right: 15px;
+        /* text-align:right; */
+        font-family: 'Akaya Telivigala', cursive;
+    }
+
+    /* .mask{
+      align-items: center;
+      margin:auto
+    } */
+
+  
+  /* .row {
+    padding: 20%;
+  } */
+  
+  .flex-container {
+    display: flex;
+    background-color: #b7e4c7;
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 50%;
+  }
+
+ .arrange{
+    width: 25%;
+    height: 100px;
+    align-items: center;
+    background-color: #b7e4c7;
+  }
+  .dbutton {
+    border: none;
+    color: white;
+    /* padding: 40px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 30px;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+  }
+
+  .dbutton1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+  } 
+
+  .dbutton1:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+
+  .dbutton2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+  } 
+
+  .dbutton2:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+
+  .dbutton3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+  }
+
+  .dbutton3:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+
+  .dbutton4 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+  } 
+
+  .dbutton4:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+
+  .arr{
+    width: 32%;
+    height: 100px;
+    align-items: center;
+  }
+
+  .ddbutton {
+    border: none;
+    color: black;
+    /* padding: 40px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 30px;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+  }
+
+  .ddbutton5 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+    padding-bottom: 30px;
+  } 
+
+  
+  .ddbutton5:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+
+  .ddbutton6 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+    width: 190px;
+    height: 30px;
+  }
+  
+  .ddbutton6:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+  
+  .ddbutton7 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #6c757d;
+  } 
+  
+  .ddbutton7:hover {
+    background-color: #6c757d;
+    color: white;
+  }
+
+  .flex-storage {
+    display: flex;
+    background-color: #b7e4c7;
+  }
+  
+  .flex-storage > div {
+    margin: 5px;
+    padding: 70px;
+    font-size: 30px;
+    border-radius: 50%;
+  }
+
+  #space {
+    background-color: #b7e4c7 ;
+    padding-top: 5px;
+    padding-bottom: 150px;
+    border: 1px #b7e4c7;
+  }
+
+  .flex-about{
+    display: flex;
+    background-color: #b7e4c7;
+  }
+
+  .flex-about > div {
+    margin: 50px;
+    padding: 70px;
+    font-size: 30px;
+  }
+  
+  .info{
+    border-radius: 50%;
+  }
+
+
+.footer{
+  background-color:white;
+  color:blue;
+}
+
+.footer p{
+  text-align: center ;
+  padding-top: 30px;
+  color:blue;
+ font-size:15px;
+text-transform:uppercase;
+
+letter-spacing:2px
+}
+.footer ul{
+  margin-left: 570px;
+  padding-top: 10px;
+}
+.footer li{
+  display:inline-block;
+ 
+}
+
+.footer a
+{
+color:black;
+}
+
+.footer a :hover{
+color:#3366cc;
+text-decoration:none;
+
+}

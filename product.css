@@ -1,0 +1,132 @@
+body{
+    background-color: #c388f3;
+    font-family: 'Akaya Kanadaka', cursive;
+   letter-spacing: 0.2px;
+   word-spacing: -0.6px;
+}
+
+.site-header__wrapper {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+ 
+ .site-header{
+   background-color: white;
+       text-align:right;
+       font-family: 'Akaya Telivigala', cursive;
+   }
+ 
+   img{
+     width: 80%;
+   }
+
+.females{
+  
+    background-color: #ecbcfd;
+    -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.67); 
+    box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.67);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+   padding-bottom: 5px;
+   border-radius: 5%;
+   font-family: 'Akaya Kanadaka', cursive;
+   letter-spacing: 0.2px;
+   word-spacing: -0.6px;
+   width: 50%;
+   margin-left: 30px;
+} 
+.industrial{
+  
+background-color: #ecbcfd;
+-webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 5%;
+font-family: 'Akaya Kanadaka', cursive;
+letter-spacing: 0.2px;
+word-spacing: -0.6px;
+   width: 50%;
+   margin-left: 30px;
+}
+.domestic{
+    
+     background-color: #ecbcfd;
+     -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+     box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     border-radius: 5%;
+     font-family: 'Akaya Kanadaka', cursive;
+   letter-spacing: 0.2px;
+   word-spacing: -0.6px;
+   width: 50%;
+   margin-left: 30px;
+}
+
+ 
+
+.mens{
+    background :url("Menstruation\ icon\ collection\ in\ line\ style_\ Menstrual\ pain\ symptoms.jfif") no-repeat scroll 90% 50%;
+    background-size:300px 300px; 
+    height: 450px;
+   width: 90%; 
+   padding-left: 100px;
+}
+
+.indus{
+    background :url("Safety_Work_Icons__Safety_At_Work_Vector_Icons_Collection_.jfif") no-repeat scroll 90% 80%;
+    background-size:300px 300px; 
+    height: 350px;
+   width: 90%; 
+   padding-left: 100px;
+}
+
+.domes{
+    background :url("clean.jfif") no-repeat scroll 90% 80%;
+    background-size:300px 300px; 
+    height: 400px;
+   width: 90%; 
+   padding-left: 100px;
+}
+
+.footer{
+   background-color:white;
+   color:blue;
+}
+
+.footer p{
+   text-align: center ;
+   padding-top: 30px;
+   color:blue;
+ font-size:15px;
+ text-transform:uppercase;
+
+ letter-spacing:2px
+}
+.footer ul{
+   margin-left: 570px;
+   padding-top: 10px;
+}
+.footer li{
+   display:inline-block;
+  
+}
+.footer a
+{
+ color:black;
+ 
+ 
+}
+
+.footer a:hover
+{
+ color:#3366cc;
+ text-decoration:none;
+}
